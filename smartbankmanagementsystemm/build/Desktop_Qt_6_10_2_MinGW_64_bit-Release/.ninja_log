@@ -1,0 +1,83 @@
+# ninja log v6
+12	55	7927741081129085	CMakeFiles/clean.additional	321391b2684b2653
+55	81	7927741081560081	clean	a03548841aa8c58d
+28	1219	7927741093813214	BankSystem_autogen/timestamp	c672db9bf975d61d
+28	1219	7927741093813214	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+28	1219	7927741093813214	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+28	1219	7927741093813214	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+1232	5876	7927741095108780	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+1236	6014	7927741095148656	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+1241	7559	7927741095198524	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7561	7817	7927741158394769	BankSystem.exe	11cb5cb61f0a3060
+42	75	7927741445354604	CMakeFiles/clean.additional	321391b2684b2653
+75	96	7927741445693694	clean	a03548841aa8c58d
+42	1151	7927741535535279	BankSystem_autogen/timestamp	c672db9bf975d61d
+42	1151	7927741535535279	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+42	1151	7927741535535279	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+42	1151	7927741535535279	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+1157	5167	7927741536684015	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+1153	5488	7927741536644128	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+1161	7268	7927741536733885	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7269	7499	7927741597807880	BankSystem.exe	11cb5cb61f0a3060
+78	339	7927780003865151	BankSystem_autogen/timestamp	c672db9bf975d61d
+78	339	7927780003865151	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+78	339	7927780003865151	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+78	339	7927780003865151	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+43	135	7927780215732589	CMakeFiles/clean.additional	321391b2684b2653
+136	168	7927780216650146	clean	a03548841aa8c58d
+38	1400	7927780230886284	BankSystem_autogen/timestamp	c672db9bf975d61d
+38	1400	7927780230886284	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+38	1400	7927780230886284	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+38	1400	7927780230886284	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+1406	5881	7927780232092627	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+1402	5933	7927780232052647	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+1410	7763	7927780232142416	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7764	8000	7927780295676156	BankSystem.exe	11cb5cb61f0a3060
+51	287	7927789914280657	BankSystem_autogen/timestamp	c672db9bf975d61d
+51	287	7927789914280657	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+51	287	7927789914280657	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+51	287	7927789914280657	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+288	5202	7927789916725001	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+292	5223	7927789916774625	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+297	7039	7927789916785691	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7040	7303	7927789984245553	BankSystem.exe	11cb5cb61f0a3060
+52	257	7927791237221743	BankSystem_autogen/timestamp	c672db9bf975d61d
+52	257	7927791237221743	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+52	257	7927791237221743	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+52	257	7927791237221743	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+259	4571	7927791239295327	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+263	4725	7927791239295327	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+268	6323	7927791239295327	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+6324	6602	7927791299950636	BankSystem.exe	11cb5cb61f0a3060
+60	266	7927791536026983	BankSystem_autogen/timestamp	c672db9bf975d61d
+60	266	7927791536026983	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+60	266	7927791536026983	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+60	266	7927791536026983	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+272	4648	7927791538175336	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+268	4767	7927791538135428	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+277	6497	7927791538226531	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+6497	6735	7927791600433953	BankSystem.exe	11cb5cb61f0a3060
+51	258	7927791716987778	BankSystem_autogen/timestamp	c672db9bf975d61d
+51	258	7927791716987778	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+51	258	7927791716987778	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+51	258	7927791716987778	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+260	4336	7927791719177200	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+264	4579	7927791719219584	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+269	6296	7927791719261041	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+6296	6531	7927791779543116	BankSystem.exe	11cb5cb61f0a3060
+66	290	7927795397689998	BankSystem_autogen/timestamp	c672db9bf975d61d
+66	290	7927795397689998	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+66	290	7927795397689998	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+66	290	7927795397689998	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+296	5500	7927795399993498	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+291	5540	7927795399961771	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+301	7871	7927795400038554	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7871	8151	7927795475760909	BankSystem.exe	11cb5cb61f0a3060
+61	287	7927795952162972	BankSystem_autogen/timestamp	c672db9bf975d61d
+61	287	7927795952162972	BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+61	287	7927795952162972	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/timestamp	c672db9bf975d61d
+61	287	7927795952162972	C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Release/BankSystem_autogen/mocs_compilation.cpp	c672db9bf975d61d
+293	5302	7927795954476821	CMakeFiles/BankSystem.dir/main.cpp.obj	4ae4e1f97b3665fb
+289	5385	7927795954436917	CMakeFiles/BankSystem.dir/BankSystem_autogen/mocs_compilation.cpp.obj	e53c731d35a19a49
+299	7430	7927795954538450	CMakeFiles/BankSystem.dir/mainwindow.cpp.obj	cc3af93f7ff256aa
+7430	7690	7927796025851013	BankSystem.exe	11cb5cb61f0a3060

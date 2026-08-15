@@ -1,0 +1,5 @@
+C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/BankSystem.dir
+C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/BankSystem_autogen_timestamp_deps.dir
+C:/Users/Eagle Trader's/Documents/smartbankmanagementsystemm/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/BankSystem_autogen.dir
