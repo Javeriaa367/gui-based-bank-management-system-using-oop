@@ -1,0 +1,23 @@
+# Build output
+build/
+*.exe
+*.dll
+*.obj
+*.o
+
+# Qt Creator user-specific files
+*.user
+.qtc/
+.qtcreator/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# OS/editor cruft
+.vscode/
+*.lnk
+desktop.ini
